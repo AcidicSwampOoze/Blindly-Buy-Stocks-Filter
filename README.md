@@ -21,6 +21,12 @@ numpy
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
 
+C:\Windows\System32\drivers\etc\hosts
+github hosts:
+140.82.113.4 github.com
+185.199.108.153 assets-cdn.github.com
+199.232.69.194 github.global.ssl.fastly.net
+
 相关网站： 
 
 股票API： https://tushare.pro/webclient/
