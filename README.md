@@ -10,6 +10,17 @@
 
 tushare的API接口token: 875009d14db5d6a06510f8546df96257fbcd29ab5b35534454abe3a0
 
+相关依赖：
+
+pandas
+tushare
+pyarrow
+numpy
+放在requirements.txt文件中以下是清华镜像地址
+
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
+
 相关网站： 
 
 股票API： https://tushare.pro/webclient/
